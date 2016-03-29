@@ -1,0 +1,22 @@
+{
+  "name": "against37",
+  "version": "0.1.0",
+  "description": "### 齐心协力反对《互联网域名管理办法（修订征求意见稿）》第二章第三十七条 https://www.zhihu.com/question/41864611#answer-32533595",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louy2/against37.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louy2/against37.js/issues"
+  },
+  "homepage": "https://github.com/louy2/against37.js#readme",
+  "dependencies": {
+    "faker": "^3.1.0"
+  }
+}
